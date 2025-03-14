@@ -1,4 +1,5 @@
 Trying to modfier this file to test updating in gitla-ci
+Second modification
 
 variables:
   IMAGE_NAME: testsimplecigitlab
